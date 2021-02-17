@@ -1,26 +1,25 @@
-# Sean Kross
+# Dmitry Ganzha
 
 ### Geography
 
-I live in the city of Baltimore, in the state of Maryland, in the United States
-of America.
+I live in the city of Moscow in the Russian Federation
 
 ### Reading
 
-Three of my favorite books are:
+Three books I've read recently:
 
-- *Mindstorms* by Seymour Papert
-- *Welcome to the Monkey House* by Kurt Vonnegut
-- *Persepolis* by Marjane Satrapi
+- *Liberalism. A Counter-History* by Domenico Losurdo
+- *Old Russian Nation* by Valentin Sedov
+- *Homo Deus. A Brief History of Tomorrow* by Yuval Noah Harari
 
 ### Food
 
-Last night I dreamt about eating in these restaurants:
+The food I like (randomly):
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
+1. Oysters.
+2. Tom Yum.
+3. Russian aspic.
 
 ### Contact
 
-The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
+The best way to get in touch with me is [on Facebook](https://www.facebook.com/profile.php?id=100003469854485).
